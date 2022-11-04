@@ -12,6 +12,6 @@ Haven't had time to make a requirement.txt
 Unless breaking changes occur in the dependencies run
 
 `pip install gym`
-`pip install python-neat`
+`pip install neat-python`
 `pip install box2d`
 `pip install pygame`
